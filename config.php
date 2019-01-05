@@ -9,10 +9,10 @@
 ///Capture dulu apk nya ambil data yang di butuhkan
 
 $ticket = 
-"sHp2r312otmCpnGns3mCqJhovNiBinvcr9OJbb_bmJa8ioehfnmnzISmfpizm5NlkaO3k4CKe5e7vZKktNuK3K2jra6KZM3XjZSKo7-Ik2ubfrCUi4RzoQ";
+"sHp2r312otmCpnGns3mCqJhovNiBiojRu6qFar_bepOyiphtfobEk4K5dpq_iHWshYqvl39le92v0IVqtM6G3K2jra6KZM3XjZSKo7-Ik2ubfrCUi4RzoQ";
 
 $meid = "b175d5a9b4b287c4";
 
 $os="android";
 
-$sign="19adbfca705fd7dab8c788e0b3061db219b02fd2803007f2d8b11fae9ed7a7fe";
+$sign="e07ed91a7645ebb855eafcdfee2b4b16932e5f59d9161b0e4042e108843dac0f";
